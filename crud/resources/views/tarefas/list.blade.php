@@ -5,11 +5,8 @@
 @section('content') 
 
   <h1>Listagem</h1>
+ 
 
-  {{-- @component('alert')
-   @slot('type')
-   testando 1,2,3...
-  @endcomponent --}}
 
   <a href="{{route('tarefa.add')}}">adicionar nova tarefa</a>
   @if(count($list)>0)
