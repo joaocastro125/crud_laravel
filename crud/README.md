@@ -3,7 +3,7 @@
 - FERMATENTAS : COMPOSER , XAMPP, VSCODE , BANCO DE DADOS PHPMYADMIN
 # PASSO A PASSO PARA PARA BAIXAR O PROJETO
  - ENTRAR NO TERMINAL FAZER O SEGUINTE COMANDO : git clone 
- - depois execultar esse comando para obter as pedencias para rodar o projeto:
+ - depois execultar esse comando para obter as Dependências para rodar o projeto:
  clone :
  git clone git@github.com:seuprojeto
 
@@ -20,4 +20,4 @@
 
  php artisan serve
 
-quando exercutar o projeto vai estar pronto para usar.
+quando exercutar o comando no terminar ou no vscode  vai estar pronto o projeto para poder usar.
